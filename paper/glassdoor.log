@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.16)  10 AUG 2018 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.16)  10 AUG 2018 23:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -361,12 +361,6 @@ Overfull \hbox (32.53592pt too wide) in paragraph at lines 100--111
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package natbib Warning: Citation `Wang' on page 2 undefined on input line 116.
-
-
-Package natbib Warning: Citation `Kim' on page 2 undefined on input line 133.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2 <./Figures/wordcounts.png> <./Figures/wordcloud.png>]
@@ -375,43 +369,9 @@ Underfull \hbox (badness 1107) in paragraph at lines 137--138
  []
 
 
-Package natbib Warning: Citation `word2vec' on page 3 undefined on input line 1
-42.
-
-
-Package natbib Warning: Citation `Zhang' on page 3 undefined on input line 142.
-
-
-
-Package natbib Warning: Citation `Pennington' on page 3 undefined on input line
- 142.
-
-
 Underfull \hbox (badness 1910) in paragraph at lines 142--143
 []\OT1/ptm/m/n/10.95 Kim's ex-per-i-ments in-cluded model vari-ants
  []
-
-
-Package natbib Warning: Citation `Kim' on page 3 undefined on input line 144.
-
-
-Package natbib Warning: Citation `Zhang' on page 3 undefined on input line 144.
-
-
-
-Package natbib Warning: Citation `Hu' on page 3 undefined on input line 144.
-
-
-Package natbib Warning: Citation `Zhang' on page 3 undefined on input line 144.
-
-
-
-Package natbib Warning: Citation `Zhang' on page 3 undefined on input line 144.
-
-
-
-Package natbib Warning: Citation `Zhang' on page 3 undefined on input line 146.
-
 
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 151.
 
@@ -421,14 +381,7 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 151.
 
-
-Package natbib Warning: Citation `Kim' on page 3 undefined on input line 159.
-
-
-Package natbib Warning: Citation `Zhang' on page 3 undefined on input line 159.
-
-
-<Figures/dropout.png, id=31, 433.62pt x 289.08pt>
+<Figures/dropout.png, id=45, 433.62pt x 289.08pt>
 File: Figures/dropout.png Graphic file (type png)
  <use Figures/dropout.png>
 Package pdftex.def Info: Figures/dropout.png used on input line 163.
@@ -437,70 +390,36 @@ Package pdftex.def Info: Figures/dropout.png used on input line 163.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package natbib Warning: Citation `Zhang' on page 3 undefined on input line 170.
-
-
-[3]
-
-Package natbib Warning: Citation `Kim' on page 4 undefined on input line 195.
-
-
-Package natbib Warning: Citation `Zhang' on page 4 undefined on input line 195.
-
-
-<Figures/overfitting.png, id=46, 433.62pt x 289.08pt>
+[3] <Figures/overfitting.png, id=68, 433.62pt x 289.08pt>
 File: Figures/overfitting.png Graphic file (type png)
 
 <use Figures/overfitting.png>
 Package pdftex.def Info: Figures/overfitting.png used on input line 203.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
+Overfull \hbox (5.75569pt too wide) in paragraph at lines 218--218
+[]\OT1/ptm/m/n/10.95 ``Unhelpful"| 
+ []
+
+
 Underfull \hbox (badness 1596) in paragraph at lines 218--219
 \OT1/ptm/m/n/10.95 tech aide po-si-tions aren't the
  []
 
 
-Overfull \hbox (32.53592pt too wide) in paragraph at lines 212--223
- [] 
+Overfull \hbox (5.75569pt too wide) in paragraph at lines 220--220
+[]\OT1/ptm/m/n/10.95 ``Unhelpful"| 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./Figures/dropout.png> <./Figures/overfitting.png>] (./glassdoor.bbl
-Underfull \hbox (badness 2005) in paragraph at lines 20--23
-[]\OT1/ptm/m/n/10 Jeffrey Pen-ning-ton, Richard Socher, and Christo-
- []
-
-)
-
-Package natbib Warning: There were undefined citations.
-
+[4 <./Figures/dropout.png> <./Figures/overfitting.png>] (./glassdoor.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
+
 [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
- (./glassdoor.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-
-! Package natbib Error: Bibliography not compatible with author-year citations.
-
-(natbib)                Press <return> to continue in numerical citation style.
-
-
-See the natbib package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 ...mand\NAT@force@numbers{}\NAT@force@numbers
-                                                  
-Check the bibliography entries for non-compliant syntax,
-or select author-year BibTeX style, e.g. plainnat
-
-)
+ (./glassdoor.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
 Package rerunfilecheck Info: File `glassdoor.out' has not changed.
@@ -511,7 +430,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 238.
 Here is how much of TeX's memory you used:
  6124 strings out of 493013
  88235 string characters out of 6136993
- 183977 words of memory out of 5000000
+ 184081 words of memory out of 5000000
  9567 multiletter control sequences out of 15000+600000
  20606 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -522,10 +441,10 @@ dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texmf-dist/fonts/type1/public
 r8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texliv
 e/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/texmf-dist/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on glassdoor.pdf (5 pages, 199782 bytes).
+Output written on glassdoor.pdf (5 pages, 196475 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 118 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  40 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
